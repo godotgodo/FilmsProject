@@ -12,7 +12,6 @@ namespace DataAccessLayer.EntityFramework
 {
     public class EfDirectorRepository : GenericRepository<Director>, IDirectorDal
     {
-
         public List<Film> GetFilmsByDirectorId(int directorId)
         {
             return _context.Films.Where(f => f.DirectorId == directorId).ToList();

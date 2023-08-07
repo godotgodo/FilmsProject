@@ -238,12 +238,6 @@
             "projectReferences": {
               "C:\\Users\\yunus\\source\\repos\\FilmsProject\\BusinessLayer\\BusinessLayer.csproj": {
                 "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\BusinessLayer\\BusinessLayer.csproj"
-              },
-              "C:\\Users\\yunus\\source\\repos\\FilmsProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\DataAccessLayer\\DataAccessLayer.csproj"
-              },
-              "C:\\Users\\yunus\\source\\repos\\FilmsProject\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }

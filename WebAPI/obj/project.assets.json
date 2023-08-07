@@ -5990,8 +5990,6 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "BusinessLayer >= 1.0.0",
-      "DataAccessLayer >= 1.0.0",
-      "EntityLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -6030,12 +6028,6 @@
           "projectReferences": {
             "C:\\Users\\yunus\\source\\repos\\FilmsProject\\BusinessLayer\\BusinessLayer.csproj": {
               "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\BusinessLayer\\BusinessLayer.csproj"
-            },
-            "C:\\Users\\yunus\\source\\repos\\FilmsProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\DataAccessLayer\\DataAccessLayer.csproj"
-            },
-            "C:\\Users\\yunus\\source\\repos\\FilmsProject\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\yunus\\source\\repos\\FilmsProject\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
